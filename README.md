@@ -1,2 +1,3 @@
-# homework-drexel2018
-Homework for Data Science Programming, International Classes
+# homework
+Homework for Data Science Programming
+
